@@ -1,14 +1,8 @@
- 
-
 <h2 align='center'>
   "Los sustos no se estudian, se hacen y ya está..."
 </h2>
 
-<br>
-
 O al menos, eso creiamos. Lo que pasa es que nos volvimos universitarios...
-
-<br>
 
 ## ¿Qué hace el proyecto?
 
@@ -21,9 +15,6 @@ Nosotros hicimos una aproximación a dicho juego usando
 lo que aprendimos en el curso de _Introducción a Ciencias de
 la Computación_ y algo de creativad inocente.
 
-<br>
-
-
 ## ¿Por qué este proyecto?
 
 La verdad es que fue una ocurrencia coincidente. 
@@ -33,7 +24,6 @@ a la máquina de garra de _Pizza Planeta_ de _Toy Story_ y de alguna forma recor
 
 A su vez, no tenemos Sustolimpiadas, ¿por qué no al menos intentar hacer un juego de ellas?
 
-<br>
 
 ## ¿Qué necesito para replicar el proyecto?
 
@@ -53,7 +43,6 @@ en la carpeta del mismo nombre en tu sistema operativo. (en sistemas Linux, est�
 - Breadboard / Protoboard y conectores para las conexiones 
 - Modificar el código donde sea necesario (ya viene señalizado donde) 
 
-<br>
 
 ## Créditos
 
@@ -67,5 +56,7 @@ en la carpeta del mismo nombre en tu sistema operativo. (en sistemas Linux, est�
 6. Adafruit_SH110X.h
 
 Nota: Las librerias sin enlace se instalan desde el gestor de bibliotecas en el IDE de Arduino. 
+
+<br>
 
 > _“¡He estado esperando esto toda mi vida! ¡Voy a ser un asustador!”_
