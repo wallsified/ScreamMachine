@@ -55,4 +55,17 @@ en la carpeta del mismo nombre en tu sistema operativo. (en sistemas Linux, est�
 
 <br>
 
+## Créditos
+
+- Librerias usadas en el proyecto: 
+
+1. Wifi.h
+2. [ESPAsyncWebServer](https://github.com/me-no-dev/ESPAsyncWebServer)
+3. [SPIFFS File Uploader](https://github.com/me-no-dev/arduino-esp32fs-plugin)
+4. Wire.h
+5. Adafruit_GFX.h
+6. Adafruit_SH110X.h
+
+Nota: Las librerias sin enlace se instalan desde el gestor de bibliotecas en el IDE de Arduino. 
+
 > _“¡He estado esperando esto toda mi vida! ¡Voy a ser un asustador!”_
