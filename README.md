@@ -44,6 +44,10 @@ en la carpeta del mismo nombre en tu sistema operativo. (en sistemas Linux, est�
 - Modificar el código donde sea necesario (ya viene señalizado donde) 
 
 
+## Ve el Código Funcionando!
+
+Puedes ver el asustómetro en acción entrando [a este video](https://www.youtube.com/watch?v=ktMf_zl2NSk)
+
 ## Créditos
 
 - Librerias usadas en el proyecto: 
