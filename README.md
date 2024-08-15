@@ -60,6 +60,8 @@ Puedes ver el asustómetro en acción entrando [a este video](https://www.youtub
 6. Adafruit_SH110X.h
 
 Nota: Las librerias sin enlace se instalan desde el gestor de bibliotecas en el IDE de Arduino. 
+El resto de ellas, incluidas en los archivos del proyecto, vienen en una carpeta comprimida c/u, 
+por lo que es necesario descomprimirlas. 
 
 <br>
 
